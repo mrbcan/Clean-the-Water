@@ -3,9 +3,9 @@
 
 **This project has been studied with datasets showing hourly precipitation from 3 different regions. The dataset has been pre-processed and made ready for ML use.**
 
-Procces has been applied:
-#Data integration.
-#Data Transofrmation.
-#Data Reduction or Dİmension Reduction.
-#Data Cleaning.
+Procces has been applied: <br/>
+#Data integration. <br/>
+#Data Transofrmation. <br/>
+#Data Reduction or Dİmension Reduction. <br/>
+#Data Cleaning. <br/>
 
